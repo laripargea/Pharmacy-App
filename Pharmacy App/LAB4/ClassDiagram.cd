@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ApothekeApp">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>ApothekeApp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApothekeController">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAQAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>ApothekeController.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApothekeRepo">
+    <Position X="4" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEGAIBAEAAAAAFAAQAAAAAAAAQAAAAAQAIAAAQ=</HashCode>
+      <FileName>ApothekeRepo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Medikation">
+    <Position X="6" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAiEAAAAAAAACYQAAAAEAQEAIAIgAAAAAgA=</HashCode>
+      <FileName>Medikation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UI">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>UI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
